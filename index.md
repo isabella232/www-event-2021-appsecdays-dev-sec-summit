@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Example 2020
+title: AppSecDays Developer Security Summit
 layout: event
 
 ---
